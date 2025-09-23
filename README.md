@@ -1,9 +1,30 @@
-# MQ-DATAMIND Workshop: Proteomics and Mental Health. Practical session I
+# MQ-DATAMIND Workshop
+# Session 1: Proteomic Biomarkers of Psychiatric Conditions
 
-This repository contains tutorial and scripts for the DATAMIND-MQ proteomics workshop practical session 1.
+This repository contains all documents and scripts for the DATAMIND-MQ proteomics workshop session 1.
 
 9 October 2025, 12pm - 5pm
 Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF
 
-This workshop is part of MQ and DATAMIND's ongoing series supporting early career researchers in mental health. 
-Join us for a day of connection, learning, and practical insights to help you take the next step in your career.
+
+
+# Directory: 1_preparation
+
+positcloud.docx
+preread.docx
+
+# Directory: 2_lecture
+
+slides.pptx
+
+Lecture: Investigating proteomic biomarkers for mental health outcomes using large-scale population-based data
+Dr Ruta Margelyte (20 mins lecture, 10 min Q&A)
+
+# Directory: 3_practical
+
+proteomics_practical_1.rmd
+questions.docx
+questions_answers.docx
+
+Practical exercise including Q&A: Proteomics, How?: data preparation, statistical approach, data visualisation, and interpretation
+Facilitators: Dr Ruta Margelyte and Dr Christina Dardani
