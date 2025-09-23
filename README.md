@@ -10,9 +10,9 @@ Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston
 
 ## Directory: 1_preparation
 
-  positcloud.docx
+  ### positcloud.docx
   
-  preread.docx
+  ### preread.docx
 
 ## Directory: 2_lecture
 
@@ -20,7 +20,7 @@ Lecture: Investigating proteomic biomarkers for mental health outcomes using lar
 
 Dr Ruta Margelyte (20 mins lecture, 10 min Q&A)
 
-  slides.pptx
+  ### slides.pptx
 
 ## Directory: 3_practical
 
@@ -28,10 +28,10 @@ Practical exercise including Q&A: Proteomics, How?: data preparation, statistica
 
 Facilitators: Dr Ruta Margelyte and Dr Christina Dardani
 
-  proteomics_practical_1.rmd
+  ### proteomics_practical_1.rmd
   
-  questions.docx
+  ### questions.docx
   
-  questions_answers.docx
+  ### questions_answers.docx
 
 
