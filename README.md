@@ -1,7 +1,7 @@
 # MQ-DATAMIND Workshop
 # Session 1: Proteomic Biomarkers of Psychiatric Conditions
 
-This repository contains all documents and scripts for the DATAMIND-MQ proteomics workshop session 1.
+This repository contains all information for the DATAMIND-MQ proteomics workshop session 1.
 
 9 October 2025, 12pm - 5pm,
 Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF
