@@ -10,7 +10,7 @@ Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston
 
 ## Preparation
 
-[Guidelines how to set up R Posit Cloud or local R environment](1_prep_R_PositCloud_intallation.docx)
+[Guidelines how to set up R Posit Cloud or local R environment](1_prep_R_PositCloud_installation.docx)
   
 preread.docx
 
