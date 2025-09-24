@@ -24,6 +24,6 @@ slides.pptx
 
 Practical exercise including Q&A: Proteomics, How?: data preparation, statistical approach, data visualisation, and interpretation; Facilitators: Dr Ruta Margelyte and Dr Christina Dardani
 
-Practical material, including scripts and data, will become available prior to the workshop. 
+Practical material (including scripts, data, and PositCloud repository) will become available prior to the workshop
 
 
