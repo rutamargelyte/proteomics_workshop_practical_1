@@ -14,6 +14,9 @@ Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston
   
 [Optional reading for session 1](prep_session1_reading.docx)
 
+All materials (including slides, scripts, data, and PositCloud repository) will become available prior to the workshop
+
+
 ## Lecture
 
 Lecture: Investigating proteomic biomarkers for mental health outcomes using large-scale population-based data; 
@@ -28,6 +31,9 @@ Practical exercise including Q&A: Proteomics, How? data preparation, statistical
 
 Facilitators: Dr Ruta Margelyte and Dr Christina Dardani
 
-Practical material (including scripts, data, and PositCloud repository) will become available prior to the workshop
+session1_practical_questions.docx
+
+session1_practical_questions_answers.docx
+
 
 
