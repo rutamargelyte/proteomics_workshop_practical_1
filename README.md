@@ -10,9 +10,9 @@ Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston
 
 ## Preparation
 
-[Guidelines how to set up R Posit Cloud or local R environment](1_prep_R_PositCloud_installation.docx)
+[Guidelines on how to set up R Posit Cloud or local R environment](1_prep_R_PositCloud_installation.docx)
   
-preread.docx
+[Optional reading for session1](prep_session1_reading.docx) preread.docx
 
 ## Lecture
 
@@ -24,10 +24,6 @@ slides.pptx
 
 Practical exercise including Q&A: Proteomics, How?: data preparation, statistical approach, data visualisation, and interpretation; Facilitators: Dr Ruta Margelyte and Dr Christina Dardani
 
-proteomics_practical_1.rmd
-  
-questions.docx
-  
-questions_answers.docx
+Practical material, including scripts and data, will become available prior to the workshop. 
 
 
