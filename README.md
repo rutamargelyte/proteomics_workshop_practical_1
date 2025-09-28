@@ -1,11 +1,12 @@
 # ECR workshop hosted by MQ & DATAMIND 
-## Session 1: Proteomic Biomarkers of Psychiatric Conditions
 
-9 October 2025, 12pm - 5pm,
+9 October 2025, 12pm - 5pm;
 
-Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF
+Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF;
 
 [Workshop's programme](https://www.mentalhealthplatform.ac.uk/event/ecr-workshop-2025)
+
+## Session 1: Proteomic Biomarkers of Psychiatric Conditions
 
 This repository contains all information for the session 1.
 
