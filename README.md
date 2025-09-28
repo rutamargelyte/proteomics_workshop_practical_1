@@ -6,7 +6,7 @@
 
 [Workshop programme](https://www.mentalhealthplatform.ac.uk/event/ecr-workshop-2025)
 
-## Session 1: Proteomic Biomarkers of Psychiatric Conditions
+## Session 1: Proteomic biomarkers of psychiatric conditions
 
 This repository contains all information for **Session 1** of the workshop.
 
