@@ -1,14 +1,14 @@
 # ECR workshop hosted by MQ & DATAMIND 
 
-9 October 2025, 12pm - 5pm;
+**Date:** 9 October 2025, 12pm - 5pm;
 
-Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF;
+**Location:** Edinburgh Futures Institute, The University of Edinburgh, Room 2.55, 1 Lauriston Place Edinburgh EH3 9EF;
 
-[Workshop's programme](https://www.mentalhealthplatform.ac.uk/event/ecr-workshop-2025)
+[Workshop programme](https://www.mentalhealthplatform.ac.uk/event/ecr-workshop-2025)
 
 ## Session 1: Proteomic Biomarkers of Psychiatric Conditions
 
-This repository contains all information for the session 1.
+This repository contains all information for **Session 1** of the workshop.
 
 ## Preparation
 
@@ -21,18 +21,18 @@ All materials (including slides, scripts, data, and PositCloud repository) will 
 
 ## Lecture
 
-Investigating proteomic biomarkers for mental health outcomes using large-scale population-based data; 
+**Topic:** Investigating proteomic biomarkers for mental health outcomes using large-scale population-based data; 
 
-Facilitators: Dr Ruta Margelyte (20 mins lecture, 10 min Q&A);
+**Facilitators:** Dr Ruta Margelyte (20 mins lecture, 10 min Q&A);
 
-[session1_lecture_slides.pptx]()
+- Download slides: [session1_lecture_slides.pptx]()
 
 ## Practical
 
-Practical exercise including Q&A: Proteomics, How? data preparation, statistical approach, data visualisation, and interpretation; 
+**Topic:** Practical exercise including Q&A: Proteomics, How? data preparation, statistical approach, data visualisation, and interpretation; 
 
-Facilitators: Dr Ruta Margelyte and Dr Christina Dardani (60 mins)
+**Facilitators:** Dr Ruta Margelyte and Dr Christina Dardani (60 mins)
 
-To access materials online via PositCloud click here [proteomics_practical_1](https://posit.cloud/content/10981075)
+- Access online via Posit Cloud: [proteomics_practical_1](https://posit.cloud/content/10981075)
 
-To download materials for your local R environment click here [proteomics_practical_1.zip](proteomics_practical_1.zip)
+- Download for local R environment: [proteomics_practical_1.zip](proteomics_practical_1.zip)
