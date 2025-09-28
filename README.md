@@ -35,4 +35,4 @@ Facilitators: Dr Ruta Margelyte and Dr Christina Dardani (60 mins)
 
 To access materials online via PositCloud click here [proteomics_practical_1](https://posit.cloud/content/10981075)
 
-To download materials for your local R environment click here [proteomics_practical_1.zip]()
+To download materials for your local R environment click here [proteomics_practical_1.zip](proteomics_practical_1.zip)
