@@ -25,7 +25,7 @@ All materials (including slides, scripts, data, and PositCloud repository) will 
 
 **Facilitators:** Dr Ruta Margelyte (20 mins lecture, 10 min Q&A);
 
-- Download slides: [session1_lecture_slides.pptx]()
+- Download slides: [proteomics_lecture_1.pptx]()
 
 ## Practical
 
