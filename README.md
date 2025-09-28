@@ -31,7 +31,7 @@ All materials (including slides, scripts, data, and PositCloud repository) will 
 
 **Topic:** Practical exercise including Q&A: Proteomics, How? data preparation, statistical approach, data visualisation, and interpretation; 
 
-**Facilitators:** Dr Ruta Margelyte and Dr Christina Dardani (60 mins)
+**Facilitators:** Dr Ruta Margelyte and Dr Christina Dardani (60 mins);
 
 - Access online via Posit Cloud: [proteomics_practical_1](https://posit.cloud/content/10981075)
 
