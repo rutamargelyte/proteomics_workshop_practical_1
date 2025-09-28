@@ -16,9 +16,6 @@ This repository contains all information for **Session 1** of the workshop.
   
 [Optional reading for session 1](prep_session1_reading.docx)
 
-All materials (including slides, scripts, data, and PositCloud repository) will become available prior to the workshop.
-
-
 ## Lecture
 
 **Topic:** Investigating proteomic biomarkers for mental health outcomes using large-scale population-based data; 
